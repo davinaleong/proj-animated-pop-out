@@ -2,7 +2,7 @@
 
 This demo was inspired by Kevin Powell's [Create an animated pop-out effect // HTML & CSS](https://www.youtube.com/watch?v=1zDRqHifoX0) video.
 
-Demo page is found [here](https://davinaleong.github.io/proj-animated-hamburger-menu/).
+Demo page is found [here](https://davinaleong.github.io/proj-animated-pop-out/).
 
 ## Getting Started
 
